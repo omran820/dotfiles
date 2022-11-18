@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.s
-	name = omran rashidy
+	email = omramrashidy@gmail.com
+	name = omram rashidy
